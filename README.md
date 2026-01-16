@@ -24,14 +24,6 @@ i like building apps with cloudflare, claude code and hetzner.
 <br>
 
 <div align="center">
-
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=natemoo-re&bar_color=ffffff&bar_color_cover=true" />
-
-</div>
-
-<br>
-
-<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
