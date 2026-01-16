@@ -23,16 +23,6 @@ i like building apps with cloudflare, claude code and hetzner.
 
 <br>
 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
-</div>
-
-<br>
-
 <!-- Matrix Rain SVG -->
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=150&text=01001000%2001000101%2001001100%2001001100%2001001111&fontColor=00ff00&fontSize=12&animation=blink&fontAlignY=50&stroke=00ff00&strokeWidth=1"/>
