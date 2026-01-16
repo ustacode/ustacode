@@ -1,3 +1,5 @@
+<div align="center">
+
 ```
  ██╗   ██╗███████╗████████╗ █████╗
  ██║   ██║██╔════╝╚══██╔══╝██╔══██╗
@@ -7,92 +9,189 @@
   ╚═════╝ ╚══════╝   ╚═╝   ╚═╝  ╚═╝
 ```
 
-<div align="center">
+i like building apps with cloudflare, claude code and hetzner.
 
-### `> building at the edge_`
+</div>
+
+<br><br>
+
+<!--
+  ╔═══════════════════════════════════════════════════════════════╗
+  ║  ISOMETRIC SERVER RACK - ACTIVE DEPLOYMENT                    ║
+  ╚═══════════════════════════════════════════════════════════════╝
+-->
+
+```
+                                    ╱╲
+                                   ╱  ╲
+                                  ╱    ╲
+                                 ╱______╲
+                                ╱╲      ╱╲
+                               ╱  ╲    ╱  ╲
+                              ╱    ╲  ╱    ╲
+                             ╱______╲╱______╲
+                            │ ▓▓▓▓▓ ││ ░░░░░ │
+                            │ ▓▓▓▓▓ ││ ░░░░░ │     ┌─────────────────────────┐
+                            │ ▓▓▓▓▓ ││ ░░░░░ │     │ > deploying to edge...  │
+                            │ ▓▓▓▓▓ ││ ░░░░░ │     │ > 275 locations ready   │
+                            │ ▓▓▓▓▓ ││ ░░░░░ │     │ > latency: 12ms         │
+                            │ ▓▓▓▓▓ ││ ░░░░░ │     └─────────────────────────┘
+                            │ ▓▓▓▓▓ ││ ░░░░░ │    ╱
+                            │ ▓▓▓▓▓ ││ ░░░░░ │───╱
+                            │ ▓▓▓▓▓ ││ ░░░░░ │
+                            │ ●──── ││ ●──── │
+                            ╰───────╯╰───────╯
+                           ╱         ╲
+                    ╔═════╧═══════════╧═════╗
+                    ║  H E T Z N E R        ║
+                    ╚═══════════════════════╝
+```
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=14&pause=1000&color=F78166&center=true&vCenter=true&random=false&width=435&lines=full-stack+developer;cloudflare+enthusiast;typescript+evangelist;shipping+fast%2C+iterating+faster)](https://git.io/typing-svg)
+<details>
+<summary><b>$ cat /etc/infrastructure.conf</b></summary>
+<br>
 
-</div>
+```
+┌────────────────────────────────────────────────────────────────────────────┐
+│                                                                            │
+│   CLOUDFLARE WORKERS        HETZNER DEDICATED         CLAUDE CODE          │
+│   ━━━━━━━━━━━━━━━━━━        ━━━━━━━━━━━━━━━━━━        ━━━━━━━━━━━━          │
+│                                                                            │
+│   ┌──────────────┐          ┌──────────────┐         ┌──────────────┐      │
+│   │  ┌────────┐  │          │  ██████████  │         │    ◢████◣   │      │
+│   │  │ EDGE   │  │    ──→   │  ██ CPU ███  │   ←──   │   ◢██████◣  │      │
+│   │  │ FUNC   │  │          │  ██████████  │         │  ◢████████◣ │      │
+│   │  └────────┘  │          │  ┌──┐  ┌──┐  │         │  │ CLAUDE  │ │      │
+│   │    │    │    │          │  │HD│  │HD│  │         │  │  CODE   │ │      │
+│   │    ▼    ▼    │          │  └──┘  └──┘  │         │  └─────────┘ │      │
+│   │  ┌──┐  ┌──┐  │          │   ════════   │         │      ││      │      │
+│   │  │KV│  │D1│  │          │   48 CORES   │         │   VIBE ══▶  │      │
+│   │  └──┘  └──┘  │          │   128GB RAM  │         │    CHECK    │      │
+│   └──────────────┘          └──────────────┘         └──────────────┘      │
+│                                                                            │
+│   "cold starts are                "bare metal             "it just         │
+│    a skill issue"                  or nothing"             works"          │
+│                                                                            │
+└────────────────────────────────────────────────────────────────────────────┘
+```
 
----
+</details>
 
 <br>
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<details>
+<summary><b>$ neofetch --ascii</b></summary>
+<br>
 
-### `~/about`
-
-```typescript
-const usta = {
-  code: ["TypeScript", "JavaScript", "Go"],
-  infra: ["Cloudflare Workers", "D1", "R2", "KV"],
-  tools: ["Hono", "Next.js", "Drizzle", "Tailwind"],
-  philosophy: "Edge-first, always.",
-};
+```
+                   .,,uod8B8bou,,.                      usta@localhost
+              .,oP"'        `"Yo8Y8,.            ──────────────────────
+           ,8P'                  `Y8,
+         ,d8P                      Y8b,                  Ship: daily
+        d8P'                        `Y8,                 Stack: cf + hetzner
+       d8P           ████████        `Y8,                Vibe: immaculate
+      d88           ██      ██        Y88,
+     d88'           ██      ██         Y88
+     888            ██      ██         `88
+     888            ██      ██          88
+     888            ████████            88
+     Y88,           ██                 ,88P
+      Y88,          ██                ,d8P
+       Y88,         ██               ,d8P
+        Y88b,                      ,d88'
+         `Y88b,                  ,d88P'
+           `Y888bo,,.       .,od888P'
+              `"Y8888888888888P"'
+                   `"""""'
 ```
 
-I build things that run at the edge—fast, distributed, close to users. No cold starts, no excuses.
+</details>
 
-<br clear="right"/>
+<br>
 
----
+<details>
+<summary><b>$ curl -s localhost:8787/architecture | jq</b></summary>
+<br>
 
-### `~/now`
-
-```diff
-+ Currently shipping: [stealth project]
-+ Learning: Durable Objects, AI at the edge
-! Open to: Interesting collabs & OSS
+```json
+{
+  "request": {
+    "path": "/",
+    "cf": {
+      "colo": "AMS",
+      "country": "NL",
+      "asn": 13335
+    }
+  },
+  "stack": [
+    "░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░",
+    "░░                                                                         ░░",
+    "░░    ┌─────────┐     ┌─────────┐     ┌─────────┐     ┌─────────┐          ░░",
+    "░░    │ BROWSER │ ──▶ │   CF    │ ──▶ │ WORKER  │ ──▶ │ HETZNER │          ░░",
+    "░░    └─────────┘     │  EDGE   │     │  D.O.   │     │   VPS   │          ░░",
+    "░░         │          └─────────┘     └─────────┘     └─────────┘          ░░",
+    "░░         │               │               │               │               ░░",
+    "░░         │          ┌────┴────┐     ┌────┴────┐     ┌────┴────┐          ░░",
+    "░░         │          │   KV    │     │   D1    │     │  PGSQL  │          ░░",
+    "░░         │          │   R2    │     │  CACHE  │     │  REDIS  │          ░░",
+    "░░         │          └─────────┘     └─────────┘     └─────────┘          ░░",
+    "░░         │                                                               ░░",
+    "░░         └──────────────────────── WEBSOCKET ───────────────────────────▶░░",
+    "░░                                                                         ░░",
+    "░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░"
+  ],
+  "response_time_ms": 0.3
+}
 ```
 
----
+</details>
 
-### `~/stats`
+<br>
+
+```
+                         ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+                        █                                       █
+                        █   ┌───┐ ┌───┐ ┌───┐ ┌───┐ ┌───┐      █
+                        █   │ C ││ L ││ A ││ U ││ D ││ E │      █
+                        █   └───┘ └───┘ └───┘ └───┘ └───┘      █
+                        █           ┌───┐ ┌───┐ ┌───┐ ┌───┐    █
+                        █           │ C ││ O ││ D ││ E │       █
+                        █           └───┘ └───┘ └───┘ └───┘    █
+                        █▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█
+                                    ████████████
+                                    ██        ██
+                                  ████        ████
+                                  ██            ██
+                                ████            ████
+                               ▀▀                  ▀▀
+```
+
+<br>
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=usta&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f78166&icon_color=f78166&text_color=c9d1d9&count_private=true" />
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=usta&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=f78166&ring=f78166&fire=f78166&currStreakLabel=f78166" />
-
-</div>
-
----
-
-### `~/connect`
-
-<div align="center">
-
 ```
-╭──────────────────────────────────────╮
-│                                      │
-│   let's build something together.    │
-│                                      │
-╰──────────────────────────────────────╯
-```
-
-[![Twitter](https://img.shields.io/badge/-@usta-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://twitter.com/usta)
-[![LinkedIn](https://img.shields.io/badge/-usta-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/usta)
-[![Email](https://img.shields.io/badge/-hello@usta.dev-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@usta.dev)
-
-</div>
-
----
-
-<div align="center">
-
-```
-       ╱╲
-      ╱  ╲
-     ╱    ╲
-    ╱  ◢◣  ╲     "The best code is
-   ╱  ◢██◣  ╲     the code that runs
-  ╱  ◢████◣  ╲    closest to users."
- ╱____________╲
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣤⣤⣤⣤⣤⣤⣤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⣿⣿⣿⣿⡿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⢿⣿⣿⣿⣿⣿⣿⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⣿⣿⣿⣿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⣿⣿⣿⣿⣿⣿⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⣿⣿⣿⠃⠀⠀⠀⠀⠀⢸⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠘⣿⣿⣿⣿⣿⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⢀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣸⣿⣿⣿⡏⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⢹⣿⣿⣿⣿⣿⣇⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⡀⠀⠀⠀
+⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢿⣿⣿⡇⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢿⣿⣇⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⣸⣿⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢻⣿⣆⠀⠀⠀⠀⠀⢸⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⣰⣿⡟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣿⣷⣄⡀⠀⠀⢸⣿⣿⣿⡇⠀⠀⠀⣀⣴⣾⣿⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⠻⠿⠿⠿⠿⠿⠿⠟⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ```
 
-<sub>Powered by caffeine and Cloudflare</sub>
+<sub>cloudflare workers run on this thing ^</sub>
 
 </div>
