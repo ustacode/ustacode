@@ -23,22 +23,6 @@ i like building apps with cloudflare, claude code and hetzner.
 
 <br>
 
-<!-- Matrix Rain SVG -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=150&text=01001000%2001000101%2001001100%2001001100%2001001111&fontColor=00ff00&fontSize=12&animation=blink&fontAlignY=50&stroke=00ff00&strokeWidth=1"/>
-</div>
-
-<div align="center">
-
-<!-- Animated Waves -->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&animation=twinkling"/>
-
-</div>
-
-<br>
-
-<br>
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%">
