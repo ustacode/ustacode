@@ -1,12 +1,3 @@
-<!--
-╔══════════════════════════════════════════════════════════════════════════╗
-║  GITHUB PROFILE README — ustacode                                         ║
-║  Deploy: create a repo named EXACTLY "ustacode" and drop this in as        ║
-║  README.md. Aesthetic: "UXGold" — premium gold-on-dark, invisible design. ║
-║  Knobs are marked  <!-- ⚙️ -->.  Accent gold = #E8B84B / deep = #C9A227.  ║
-╚══════════════════════════════════════════════════════════════════════════╝
--->
-
 <!-- ═══════════════════════ HERO ═══════════════════════ -->
 <div align="center">
 
